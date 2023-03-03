@@ -1,0 +1,47 @@
+@media(max-width:768px){
+  header ul{
+    text-align: left !important;
+  }
+  header ul input{
+    align-self: flex-start;
+  }
+  .space100{
+    padding: 50px 0;
+  }
+  .title h2{
+    font-size: 35px;
+  }
+  footer .logo{
+    text-align: center;
+  }
+  .copyright{
+    display: block;
+  }
+  .about-img2{
+    display: none;
+  }
+  .list-unstyled{
+    display: inline;
+  }
+  .comment{
+    margin: 15px 0;
+  }
+  .social ul{
+    display: flex;
+    justify-content: center;
+    padding-left: 0;
+    padding-top: 20px;
+  }
+  .about-content{
+    padding: 0;
+  }
+  .about-content h2{
+    font-size: 34px;
+  }
+  .about-content p{
+  font-size: 18px;
+  }
+  .cam-content ul{
+    padding: 0 20px;
+  }
+}
